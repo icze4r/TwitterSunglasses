@@ -7,9 +7,13 @@ This Chrome extension changes the Twitter Verified Icon into a brown poop emoji.
 
 <br />
 
-<b><a href="https://chrome.google.com/webstore/detail/twitter-verified-account/ajgilddapndgbmniliponchegglobphm">Chrome Web Store Extension</a></b>
+<b><a href="https://chrome.google.com/webstore/detail/twitter-verified-account/ajgilddapndgbmniliponchegglobphm">Official Chrome Web Store Extension</a></b>
 <br />
-<b><a href="https://github.com/icze4r/TwitterSunglasses/blob/master/Twitter%20Verified%20Account%20Sunglasses%20-%20Version%200.1.0%20-%20Foxified.xpi">Firefox Extension</a></b>
+<b><a href="https://github.com/icze4r/TwitterSunglasses/blob/master/Twitter-Verified-Account-Sunglasses_v0.1.0.crx">Github hosted copy of Chrome extension</a></b>
+<br />
+<b><a href="https://addons.mozilla.org/en-US/firefox/addon/twitter-verified-sunglasses/">Official Mozilla Firefox Add-on</a></b>
+<br />
+<b><a href="https://github.com/icze4r/TwitterSunglasses/blob/master/Twitter%20Verified%20Account%20Sunglasses%20-%20Version%200.1.0%20-%20Foxified.xpi">Github hosted copy of Firefox Add-on</a></b>
 <br />
 <b><a href="https://github.com/icze4r/TwitterSunglasses/blob/master/tampermonkey-script.txt">Tampermonkey Script</a></b>
 
