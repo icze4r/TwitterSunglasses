@@ -1,0 +1,21 @@
+// ==UserScript==
+// @name         Twitter Verified Account Sunglasses
+// @namespace    https://www.icze4r.org/
+// @version      0.1
+// @description  Reveals Twitter Verified accounts for what they really are.
+// @author       Margaret "icze4r" Gel
+// @match        https://*/*
+// @grant        none
+// ==/UserScript==
+
+function addGlobalStyle(css) {
+    var head, style;
+    head = document.getElementsByTagName('head')[0];
+    if (!head) { return; }
+    style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = css;
+    head.appendChild(style);
+}
+
+addGlobalStyle('.Icon--verified:after {content: "💩" !important;line-height: 1;position: relative;color: #D2691E;}');
