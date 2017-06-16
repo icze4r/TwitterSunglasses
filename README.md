@@ -1,5 +1,5 @@
 # TwitterSunglasses
-PUT ON THE GLASSES.
+<b>PUT ON THE GLASSES.</b>
 
 So: on Twitter, the Verified icon is basically a sign of negative quality.  People get it and think they're hot shit.
 
