@@ -29,6 +29,8 @@ It's simple.  <a href="https://github.com/icze4r/TwitterSunglasses/archive/maste
 
 It all works automatically.
 
+For Firefox, you just <a href="https://github.com/icze4r/TwitterSunglasses/blob/master/Twitter%20Verified%20Account%20Sunglasses%20-%20Version%200.1.0%20-%20Foxified.xpi">download this</a>, click the little gear in the Add-ons panel, and Install from File.  Simple!
+
 
 <br /><br /><br />
 <b>Why doesn't this work on TweetDeck?</b>
