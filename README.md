@@ -1,9 +1,11 @@
 # TwitterSunglasses
 PUT ON THE GLASSES.
 
-So: on Twitter, the Verified icon is basically a sign of negative quality.
+So: on Twitter, the Verified icon is basically a sign of negative quality.  People get it and think they're hot shit.
 
-This Chrome extension changes the Twitter Verified Icon into a brown poop emoji.
+Now they are.
+
+When you put on the glasses, you'll see Twitter Verified icons for what they are: shit.  This Chrome extension changes the Twitter Verified Icon into a brown poop emoji.
 
 <b><a href="https://chrome.google.com/webstore/detail/twitter-verified-account/ajgilddapndgbmniliponchegglobphm">Official Chrome Web Store Extension</a></b>
 <br />
