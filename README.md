@@ -41,3 +41,7 @@ Done?  Okay, download Resource Override: https://chrome.google.com/webstore/deta
 This is what your setup should look like:
 
 <img src="resourceoverride.png" />
+
+You're going to need to upload the modified sprite sheets somewhere for this to work.  I don't think it works if you just put a localhost / file:/// reference in.
+
+If you do that, it should work.
