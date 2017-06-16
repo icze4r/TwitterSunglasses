@@ -1,0 +1,9 @@
+.Icon--verified:after {
+    content: "💩" !important;
+    line-height: 1;
+    position: relative;
+}
+
+.Icon--verified {
+    color: #D2691E !important;
+}
