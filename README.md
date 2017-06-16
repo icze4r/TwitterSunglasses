@@ -17,11 +17,7 @@ This Chrome extension changes the Twitter Verified Icon into a brown poop emoji.
 <br />
 <b><a href="https://github.com/icze4r/TwitterSunglasses/blob/master/tampermonkey-script.txt">Tampermonkey Script</a></b>
 
-<br />
-
 <b>The Effect</b>
-
-<br />
 
 <img src="effect.png" />
 
